@@ -19,7 +19,7 @@ Android Phone with Blynk App
 Relay module
 </pre>
 <pre>
-2 <b> Circuit Diagram </b>
+2 <b>Circuit Diagram </b>
 <img src = "https://github.com/karthxk/Homeautomation-HackerEarth/blob/main/circuit%20diagram.png"></img>
 </pre>
 3 <b>Software</b> <br>
