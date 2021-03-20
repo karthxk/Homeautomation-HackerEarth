@@ -19,8 +19,8 @@ Android Phone with Blynk App
 Relay module
 </pre>
 <pre>
-2 <b> Circuit Diagram <b>
+2 <b> Circuit Diagram </b>
 <img src = "https://github.com/karthxk/Homeautomation-HackerEarth/blob/main/circuit%20diagram.png"></img>
 </pre>
-2 <b>Software</b> <br>
+3 <b>Software</b> <br>
 Download the zip file for Blynk library and copy all the files into the sketchbook location. Firstly install “Blynk” application from play-store and open it. Click on New Project, enter the Project Name, Choose Device as “NodeMCU“, Connection Type as “Wi-Fi” and then click “Create” icon. After the creation of Project, App will send the Auth Token code to registered Email ID. Create a new button, enter the button name and select the GPIO pins (exmaple: D0, D1, D2, D3).
